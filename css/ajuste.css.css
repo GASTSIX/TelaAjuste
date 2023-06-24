@@ -287,7 +287,24 @@ table * {
 @media screen and (max-width: 768px) {
 
     h1{
-        font-size: 15px;
+        font-size: 20px;
+    }
+
+    h2{
+        font-size: 18px;
+    }
+
+    .botao_nav{
+        width: 90%;
+    }
+
+    .aj_div__alinhamento_campos_quantidade{
+        font-size: 16px;
+    }
+
+    .aj_botao{
+        width: 18%;
+        font-size: 12px;
     }
     /* INICIO MENU INTERATIVO*/
     .menu_lateral{
